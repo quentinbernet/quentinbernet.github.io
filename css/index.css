@@ -42,3 +42,15 @@ main {
     font-size: 20px;
     font-family: 'Latolight';
 }
+
+.main_empty {
+    height: 100%;
+}
+
+.main_image {
+    height: 100%;
+}
+
+.main_content {
+    height: 100%;
+}
