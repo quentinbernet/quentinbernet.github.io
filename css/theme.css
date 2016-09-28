@@ -31,7 +31,7 @@
 }
 
 .box3 {
-    background-color: #79BD9A;;
+    background-color: #79BD9A;
 }
 
 .box4 {
@@ -40,4 +40,29 @@
 
 .box5 {
     background-color: #0B486B;;
+}
+.top10 {
+    margin-top:10px;
+}
+.top20{
+    margin-top: 20px;
+}
+.top50{
+    margin-top:50px;
+}
+.top100{
+    margin-top:100px;
+}
+.button{
+    width: 50%;
+    height:50px;
+    border-radius: 5px ;
+    line-height: 50px;
+    background-color: white;
+    border: solid 2px #79BD9A;
+    color:#79BD9A;
+}
+.button:hover{
+    background-color: #79BD9A;
+    color:white;
 }

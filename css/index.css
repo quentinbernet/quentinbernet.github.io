@@ -42,15 +42,26 @@ main {
     font-size: 20px;
     font-family: 'Latolight';
 }
+/*
+ * use this class for small content */
+.smallcontent {
+    font-size: 12px;
+    font-family:'Latolight';
+}
 
+/*
+ * left gap into cloud container*/
 .main_empty {
     height: 100%;
 }
-
+/*
+ * here goes the main picture of the index page*/
 .main_image {
     height: 100%;
 }
-
+/*
+ * container that shows a short sum up */
 .main_content {
     height: 100%;
+    z-index: 0;
 }
